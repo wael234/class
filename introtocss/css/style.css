@@ -1,0 +1,59 @@
+html {
+    background-color: blue;
+}
+body {
+    background-color: aqua;
+    width: 960px;
+    margin: 20px auto; 
+}
+header{
+    padding: 20px;
+    text-align: center ;
+}
+header  img{
+    display: block;
+    margin: 20px auto;
+    width: 30px;
+}
+nav{
+    background-color: brown;
+    text-align: center;
+
+}
+
+nav a{
+    color: aquamarine;
+    font-size: 20px;
+    margin:0 20px;
+}
+nav a:hover{
+    color: aquamarine;
+    text-decoration: none;
+
+}
+
+
+main{
+    padding: 20px;
+}
+main img {
+    display: block;
+    margin: 20px auto;
+    width: 35%;
+}
+
+footer {
+    background-color: brown;
+    text-align: center;
+    padding: 40px;
+
+}
+a {
+color: aquamarine;
+}
+a:hover{
+    color: aquamarine;
+    text-decoration: none;
+}
+
+
